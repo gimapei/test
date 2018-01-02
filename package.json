@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimapei/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "GimaPei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gimapei/test/issues"
+  },
+  "homepage": "https://github.com/gimapei/test#readme"
+}
